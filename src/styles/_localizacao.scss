@@ -1,0 +1,28 @@
+
+
+#localizacao{
+    margin: 0;
+    h1{
+        color: #f79733;
+        padding: 50px 0;
+        text-transform: uppercase;
+        font-size: 50px;
+        text-align: center;
+        font-family: 'Edo SZ',sans-serif;
+    }
+
+    iframe{
+        position: relative;
+        top: 6px;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media (max-width:767px){
+    #localizacao{
+        h1{
+            font-size: 42px;
+            }
+    }
+}
