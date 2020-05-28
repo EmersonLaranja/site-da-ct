@@ -1,5 +1,5 @@
 <h1 align="center"> CT Junior Website</h1>
-<img src="src/assets/images/CT-LOGO-branca-reta.png">
+<img src="src/assets/images/logo%20padrao.png">
 
 I builded this site with JS,HTML, CSS (using Sass).
 
